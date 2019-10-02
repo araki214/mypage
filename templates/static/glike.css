@@ -18,13 +18,13 @@ text-decoration: none;
 
 #content {
 font-weight:bold;
-  color:#4BA1EF;
+  color:#6BD6C4;
 font-size:large;
 text-shadow:
--1px -1px 0 black,
-1px -1px 0 black,
--1px 1px 0 black,
-1px 1px 0 black;
+-1px -1px 0 #d8d8d8,
+1px -1px 0 #d8d8d8,
+-1px 1px 0 #d8d8d8,
+1px 1px 0 #d8d8d8;
 }
 #content h2 {
  font-size:x-large;
@@ -47,10 +47,10 @@ font-weight:bold;
   color:#6BD6C4;
 font-size:large;
 text-shadow:
--1px -1px 0 black,
-1px -1px 0 black,
--1px 1px 0 black,
-1px 1px 0 black;
+-1px -1px 0 #d8d8d8,
+1px -1px 0 #d8d8d8,
+-1px 1px 0 #d8d8d8,
+1px 1px 0 #d8d8d8;
 }
 #content2 h2 {
  font-size:x-large;
