@@ -52,10 +52,10 @@ font-weight:bold;
   color:#6BD6C4;
 font-size:large;
 text-shadow:
--1px -1px 0 #666666,
-1px -1px 0 #666666,
--1px 1px 0 #666666,
-1px 1px 0 #666666;
+-1px -1px 0 black,
+1px -1px 0 black,
+-1px 1px 0 black,
+1px 1px 0 black;
 }
 #content2 h2 {
  font-size:x-large;
