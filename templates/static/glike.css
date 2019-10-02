@@ -41,3 +41,29 @@ color:#C63319;
 font-weight:bold;
 text-decoration:none; 
 }
+
+#content2 {
+font-weight:bold;
+  color:#6BD6C4;
+font-size:large;
+text-shadow:
+-1px -1px 0 black,
+1px -1px 0 black,
+-1px 1px 0 black,
+1px 1px 0 black;
+}
+#content2 h2 {
+ font-size:x-large;
+ color:#D94538;
+}
+#content2 li{
+color:#F4BB00;
+font-weight:bold;
+text-shadow:none;
+}
+
+#content2 a{ 
+color:#D94538;
+font-weight:bold;
+text-decoration:none; 
+}
