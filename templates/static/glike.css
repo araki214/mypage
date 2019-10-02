@@ -21,10 +21,10 @@ font-weight:bold;
   color:#6BD6C4;
 font-size:large;
 text-shadow:
--1px -1px 0 #d8d8d8,
-1px -1px 0 #d8d8d8,
--1px 1px 0 #d8d8d8,
-1px 1px 0 #d8d8d8;
+-1px -1px 0 #666666,
+1px -1px 0 #666666,
+-1px 1px 0 #666666,
+1px 1px 0 #666666;
 }
 #content h2 {
  font-size:x-large;
@@ -47,10 +47,10 @@ font-weight:bold;
   color:#6BD6C4;
 font-size:large;
 text-shadow:
--1px -1px 0 #d8d8d8,
-1px -1px 0 #d8d8d8,
--1px 1px 0 #d8d8d8,
-1px 1px 0 #d8d8d8;
+-1px -1px 0 #666666,
+1px -1px 0 #666666,
+-1px 1px 0 #666666,
+1px 1px 0 #666666;
 }
 #content2 h2 {
  font-size:x-large;
