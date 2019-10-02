@@ -1,0 +1,43 @@
+html {
+  overflow: auto;
+}
+body {
+  padding: 0 2em;
+  overflow: hidden;
+}
+
+
+a {
+font-weight:bold;
+}
+
+a.selected{
+color:white;
+text-decoration: none;
+}
+
+#content {
+font-weight:bold;
+  color:#4BA1EF;
+font-size:large;
+text-shadow:
+-1px -1px 0 black,
+1px -1px 0 black,
+-1px 1px 0 black,
+1px 1px 0 black;
+}
+#content h2 {
+ font-size:x-large;
+ color:#C63319;
+}
+#content li{
+color:#F19600;
+font-weight:bold;
+text-shadow:none;
+}
+
+#content a{ 
+color:#C63319;
+font-weight:bold;
+text-decoration:none; 
+}
