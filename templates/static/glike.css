@@ -20,11 +20,6 @@ text-decoration: none;
 font-weight:bold;
   color:blue;
 font-size:large;
-text-shadow:
--1px -1px 0 black,
-1px -1px 0 black,
--1px 1px 0 black,
-1px 1px 0 black;
 }
 #content h2 {
  font-size:x-large;
