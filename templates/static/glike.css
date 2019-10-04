@@ -37,8 +37,11 @@ text-shadow:
 }
 
 #content li1{
-text-shadow:none;
-}
+text-shadow:
+-1px -1px 0 black,
+1px -1px 0 black,
+-1px 1px 0 black,
+1px 1px 0 black; }
 
 #content a{ 
 color:#C63319;
