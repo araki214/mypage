@@ -47,17 +47,6 @@ font-weight:bold;
 text-shadow:none; 
 }
 
-#content p{
-    width: 100%; /*absoluteで位置を設定するときに、幅と高さは必ず必要*/
-    height: 1.5em;
-
-    /*位置の設定　- 上下中央寄せ*/
-    position: absolute;
-    margin: auto;
-    top: 0;
-    bottom: 0;
-}
-
 #content2 {
 font-weight:bold;
   color:#6BD6C4;
