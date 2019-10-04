@@ -46,7 +46,7 @@ text-shadow:
 1px 1px 0 black; }
 
 #content a{ 
-color:#C63319;
+color:red;
 font-weight:bold;
 text-shadow:none; 
 }
@@ -73,7 +73,7 @@ text-shadow:
 1px 1px 0 black; }
 
 #content2 a{ 
-color:#D94538;
+color:red;
 font-weight:bold;
 text-shadow:none;
 }
