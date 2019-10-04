@@ -23,6 +23,7 @@ font-size:large;
 }
 #content h2 {
  font-size:x-large;
+ left:10pt ;
  color:red;
  text-shadow:none;
 }
@@ -56,6 +57,7 @@ font-size:large;
 }
 #content2 h2 {
  font-size:x-large;
+ left:10pt;
  color:red;
  text-shadow:none;
 }
