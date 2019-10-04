@@ -23,11 +23,11 @@ font-size:large;
 }
 #content h2 {
  font-size:x-large;
- color:#C63319;
+ color:red;
  text-shadow:none;
 }
 #content li{
-color:yellow;
+color:#FFEE00;
 font-weight:bold;
 text-shadow:
 -1px -1px 0 black,
@@ -48,19 +48,23 @@ text-shadow:none;
 
 #content2 {
 font-weight:bold;
-  color:#6BD6C4;
+  color:blue;
 font-size:large;
 }
 #content2 h2 {
  font-size:x-large;
- color:#D94538;
+ color:red;
  text-shadow:none;
 }
 #content2 li{
-color:#F4BB00;
+color:#FFEE00;
 font-weight:bold;
-text-shadow:none;
-}
+font-weight:bold;
+text-shadow:
+-1px -1px 0 black,
+1px -1px 0 black,
+-1px 1px 0 black,
+1px 1px 0 black; }
 
 #content2 a{ 
 color:#D94538;
