@@ -38,6 +38,7 @@ text-shadow:
 }
 
 #content li1{
+margin-left:10pt;
 text-shadow:
 -1px -1px 0 black,
 1px -1px 0 black,
@@ -65,7 +66,6 @@ margin-left:12pt;
 #content2 li{
 color:#FFEE00;
 font-weight:bold;
-margin-left:10pt;
 text-shadow:
 -1px -1px 0 black,
 1px -1px 0 black,
